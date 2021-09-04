@@ -1,1 +1,8 @@
-javascript\*\node_modules\
+node_modules/
+*~
+/**/*.*.swp
+--pycache--/
+*.py[cod]
+*$py.class
+*.spec
+.pytest_cache

@@ -50,3 +50,29 @@ exercism download --track=java --exercise=hello-world
 more information at [java](https://exercism.org/tracks/java)
 
 
+# wirte your solution
+
+completely write your solution
+
+then run the test command
+
+for example: java gradlew test
+
+```zsh
+ sh ./gradlew test
+```
+
+# submit your solution
+
+```zsh
+exercism submit /path/to/your/java/your-project/src/main/java/your-project.java
+```
+
+# delete build file
+
+example delete java build file
+
+```zsh
+rm -rf /path/to/your/java/your-project build and .gradle folder
+```
+

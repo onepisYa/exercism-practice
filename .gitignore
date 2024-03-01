@@ -6,3 +6,16 @@ node_modules/
 *$py.class
 *.spec
 .pytest_cache
+
+# java gradle
+java/**/build/**
+java/**/.gradle/**/checksums/**
+java/**/.gradle/**/dependencies-accessors/**
+java/**/.gradle/**/executionHistory/**
+java/**/.gradle/**/fileHashes/**
+java/**/.gradle/**/fileChanges/**
+java/**/.gradle/**/buildOutputCleanup/**
+java/**/.gradle/**/file-system.probe
+java/**/.gradle/**/file-system.probe
+java/**/.gradle/**/gc.properties
+

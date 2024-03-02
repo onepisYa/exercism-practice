@@ -19,3 +19,6 @@ java/**/.gradle/**/file-system.probe
 java/**/.gradle/**/file-system.probe
 java/**/.gradle/**/gc.properties
 
+# idea editor
+**/.idea/**
+

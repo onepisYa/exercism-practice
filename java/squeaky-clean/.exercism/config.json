@@ -1,0 +1,27 @@
+{
+  "authors": [
+    "ystromm"
+  ],
+  "contributors": [
+    "sanderploegsma",
+    "manumafe98"
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/SqueakyClean.java"
+    ],
+    "test": [
+      "src/test/java/SqueakyCleanTest.java"
+    ],
+    "exemplar": [
+      ".meta/src/reference/java/SqueakyClean.java"
+    ],
+    "invalidator": [
+      "build.gradle"
+    ]
+  },
+  "forked_from": [
+    "csharp/squeaky-clean"
+  ],
+  "blurb": "Learn about characters and StringBuilder by cleaning strings."
+}

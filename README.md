@@ -76,3 +76,8 @@ example delete java build file
 rm -rf /path/to/your/java/your-project build and .gradle folder
 ```
 
+```zsh
+rm -rf ./java/**/build ./java/**/.gradle
+```
+
+
